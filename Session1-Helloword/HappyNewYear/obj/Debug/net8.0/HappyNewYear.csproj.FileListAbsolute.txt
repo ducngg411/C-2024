@@ -1,0 +1,14 @@
+D:\C#\Session1-Helloword\HappyNewYear\bin\Debug\net8.0\HappyNewYear.exe
+D:\C#\Session1-Helloword\HappyNewYear\bin\Debug\net8.0\HappyNewYear.deps.json
+D:\C#\Session1-Helloword\HappyNewYear\bin\Debug\net8.0\HappyNewYear.runtimeconfig.json
+D:\C#\Session1-Helloword\HappyNewYear\bin\Debug\net8.0\HappyNewYear.dll
+D:\C#\Session1-Helloword\HappyNewYear\bin\Debug\net8.0\HappyNewYear.pdb
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.AssemblyInfoInputs.cache
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.AssemblyInfo.cs
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.csproj.CoreCompileInputs.cache
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.dll
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\refint\HappyNewYear.dll
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.pdb
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\HappyNewYear.genruntimeconfig.cache
+D:\C#\Session1-Helloword\HappyNewYear\obj\Debug\net8.0\ref\HappyNewYear.dll

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Session2-Language\\You\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A0ECA2-FBA0-4535-B416-07EA20682B0F}|MainUI\\MainUI.csproj|d:\\c#\\session2-language\\you\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A0ECA2-FBA0-4535-B416-07EA20682B0F}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}|Bmi\\Bmi.csproj|d:\\c#\\session2-language\\you\\bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F57142F-4C32-4FE9-B527-2373C5C83577}|BmiTester\\BmiTester.csproj|d:\\c#\\session2-language\\you\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F57142F-4C32-4FE9-B527-2373C5C83577}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session2-Language\\You\\BmiTester\\Program.cs",
+              "RelativeDocumentMoniker": "BmiTester\\Program.cs",
+              "ToolTip": "D:\\C#\\Session2-Language\\You\\BmiTester\\Program.cs",
+              "RelativeToolTip": "BmiTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:14:42.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BmiCaculator.cs",
+              "DocumentMoniker": "D:\\C#\\Session2-Language\\You\\Bmi\\BmiCaculator.cs",
+              "RelativeDocumentMoniker": "Bmi\\BmiCaculator.cs",
+              "ToolTip": "D:\\C#\\Session2-Language\\You\\Bmi\\BmiCaculator.cs",
+              "RelativeToolTip": "Bmi\\BmiCaculator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:14:34.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session2-Language\\You\\MainUI\\Program.cs",
+              "RelativeDocumentMoniker": "MainUI\\Program.cs",
+              "ToolTip": "D:\\C#\\Session2-Language\\You\\MainUI\\Program.cs",
+              "RelativeToolTip": "MainUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:18:02.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

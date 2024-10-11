@@ -1,0 +1,14 @@
+D:\C#\Session2-Language\MyLibarry\Poem\bin\Debug\net8.0\Poem.exe
+D:\C#\Session2-Language\MyLibarry\Poem\bin\Debug\net8.0\Poem.deps.json
+D:\C#\Session2-Language\MyLibarry\Poem\bin\Debug\net8.0\Poem.runtimeconfig.json
+D:\C#\Session2-Language\MyLibarry\Poem\bin\Debug\net8.0\Poem.dll
+D:\C#\Session2-Language\MyLibarry\Poem\bin\Debug\net8.0\Poem.pdb
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.AssemblyInfoInputs.cache
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.AssemblyInfo.cs
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.csproj.CoreCompileInputs.cache
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.dll
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\refint\Poem.dll
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.pdb
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\Poem.genruntimeconfig.cache
+D:\C#\Session2-Language\MyLibarry\Poem\obj\Debug\net8.0\ref\Poem.dll

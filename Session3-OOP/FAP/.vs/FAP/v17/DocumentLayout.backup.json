@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Session3-OOP\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827AFE9E-94F8-426D-A496-A569A3408D6F}|StudentManagerV8PropertyHybird\\StudentManagerV8PropertyHybird.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv8propertyhybird\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AFE9E-94F8-426D-A496-A569A3408D6F}|StudentManagerV8PropertyHybird\\StudentManagerV8PropertyHybird.csproj|solutionrelative:studentmanagerv8propertyhybird\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827AFE9E-94F8-426D-A496-A569A3408D6F}|StudentManagerV8PropertyHybird\\StudentManagerV8PropertyHybird.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv8propertyhybird\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827AFE9E-94F8-426D-A496-A569A3408D6F}|StudentManagerV8PropertyHybird\\StudentManagerV8PropertyHybird.csproj|solutionrelative:studentmanagerv8propertyhybird\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv2multipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|solutionrelative:studentmanagerv2multipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv5multipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|solutionrelative:studentmanagerv5multipleconstructors\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE3A84-823B-4BDE-8333-D039A90F4D9C}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE3A84-823B-4BDE-8333-D039A90F4D9C}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFE3A84-823B-4BDE-8333-D039A90F4D9C}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFE3A84-823B-4BDE-8333-D039A90F4D9C}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06BE0B-9BCD-46F3-A4AE-41A3B444BB93}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE06BE0B-9BCD-46F3-A4AE-41A3B444BB93}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06BE0B-9BCD-46F3-A4AE-41A3B444BB93}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE06BE0B-9BCD-46F3-A4AE-41A3B444BB93}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv5multipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|solutionrelative:studentmanagerv5multipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv5multipleconstructors\\studentmanagerv5multipleconstructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16AC1341-7E6A-4B28-83BD-A905E406F3FB}|StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj|solutionrelative:studentmanagerv5multipleconstructors\\studentmanagerv5multipleconstructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E558E8D4-85BF-42F2-9C38-91DF657AAC92}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv4emptyconstructor\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E558E8D4-85BF-42F2-9C38-91DF657AAC92}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|solutionrelative:studentmanagerv4emptyconstructor\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E558E8D4-85BF-42F2-9C38-91DF657AAC92}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv4emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E558E8D4-85BF-42F2-9C38-91DF657AAC92}|StudentManagerV4EmptyConstructor\\StudentManagerV4EmptyConstructor.csproj|solutionrelative:studentmanagerv4emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv3emptyconstructor\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|solutionrelative:studentmanagerv3emptyconstructor\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv3emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|solutionrelative:studentmanagerv3emptyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv2multipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|solutionrelative:studentmanagerv2multipleconstructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv3emptyconstructor\\studentmanagerv3emptyconstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1278AE16-50EF-4471-923A-28EFCE1AD7DA}|StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj|solutionrelative:studentmanagerv3emptyconstructor\\studentmanagerv3emptyconstructor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv2multipleconstructors\\studentmanagerv2multipleconstructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CD618FE-1133-459E-8604-D25913671E80}|StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj|solutionrelative:studentmanagerv2multipleconstructors\\studentmanagerv2multipleconstructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|d:\\c#\\session3-oop\\fap\\studentmanagerv1\\studentmanagerv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0767F6E8-168E-4DD2-981A-6FE56276E456}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\studentmanagerv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV8PropertyHybird\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyHybird\\Entites\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV8PropertyHybird\\Entites\\Student.cs",
+              "RelativeToolTip": "StudentManagerV8PropertyHybird\\Entites\\Student.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:45:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV8PropertyHybird\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyHybird\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV8PropertyHybird\\Program.cs*",
+              "RelativeToolTip": "StudentManagerV8PropertyHybird\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:45:20.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:45:18.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:45:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5MultipleConstructors\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV5MultipleConstructors\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:14:17.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManagerV5MultipleConstructors.csproj",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj",
+              "RelativeToolTip": "StudentManagerV5MultipleConstructors\\StudentManagerV5MultipleConstructors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T07:14:03.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2MultipleConstructors\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV2MultipleConstructors\\Entities\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:57:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV1\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV1\\Entities\\Student.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:30:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:25:49.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:26:26.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5MultipleConstructors\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV5MultipleConstructors\\Program.cs",
+              "RelativeToolTip": "StudentManagerV5MultipleConstructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:13:53.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV4EmptyConstructor\\Entities\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:07:09.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV4EmptyConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4EmptyConstructor\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV4EmptyConstructor\\Program.cs",
+              "RelativeToolTip": "StudentManagerV4EmptyConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:06:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3EmptyConstructor\\Entites\\Student.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\Entites\\Student.cs",
+              "RelativeToolTip": "StudentManagerV3EmptyConstructor\\Entites\\Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:23:32.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentManagerV3EmptyConstructor.csproj",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+              "RelativeToolTip": "StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T03:23:12.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3EmptyConstructor\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV3EmptyConstructor\\Program.cs",
+              "RelativeToolTip": "StudentManagerV3EmptyConstructor\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:22:20.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentManagerV2MultipleConstructors.csproj",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj",
+              "RelativeToolTip": "StudentManagerV2MultipleConstructors\\StudentManagerV2MultipleConstructors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T01:57:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2MultipleConstructors\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV2MultipleConstructors\\Program.cs",
+              "RelativeToolTip": "StudentManagerV2MultipleConstructors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:57:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentManagerV1.csproj",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV1\\StudentManagerV1.csproj",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\StudentManagerV1.csproj",
+              "RelativeToolTip": "StudentManagerV1\\StudentManagerV1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T02:28:44.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV1\\Program.cs",
+              "ToolTip": "D:\\C#\\Session3-OOP\\FAP\\StudentManagerV1\\Program.cs",
+              "RelativeToolTip": "StudentManagerV1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:26:07.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

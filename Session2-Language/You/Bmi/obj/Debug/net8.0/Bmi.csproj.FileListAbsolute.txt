@@ -1,0 +1,13 @@
+D:\C#\Session2-Language\You\Bmi\bin\Debug\net8.0\Bmi.deps.json
+D:\C#\Session2-Language\You\Bmi\bin\Debug\net8.0\Bmi.dll
+D:\C#\Session2-Language\You\Bmi\bin\Debug\net8.0\Bmi.pdb
+D:\C#\Session2-Language\You\Bmi\bin\Debug\net8.0\Bmi.xml
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.dll
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.xml
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\Bmi.pdb
+D:\C#\Session2-Language\You\Bmi\obj\Debug\net8.0\ref\Bmi.dll

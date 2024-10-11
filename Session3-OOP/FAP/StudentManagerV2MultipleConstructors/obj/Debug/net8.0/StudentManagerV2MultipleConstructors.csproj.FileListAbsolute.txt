@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\bin\Debug\net8.0\StudentManagerV2MultipleConstructors.exe
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\bin\Debug\net8.0\StudentManagerV2MultipleConstructors.deps.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\bin\Debug\net8.0\StudentManagerV2MultipleConstructors.runtimeconfig.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\bin\Debug\net8.0\StudentManagerV2MultipleConstructors.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\bin\Debug\net8.0\StudentManagerV2MultipleConstructors.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.AssemblyInfo.cs
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\refint\StudentManagerV2MultipleConstructors.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\StudentManagerV2MultipleConstructors.genruntimeconfig.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV2MultipleConstructors\obj\Debug\net8.0\ref\StudentManagerV2MultipleConstructors.dll

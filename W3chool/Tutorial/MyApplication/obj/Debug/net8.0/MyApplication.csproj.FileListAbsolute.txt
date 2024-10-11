@@ -1,0 +1,14 @@
+D:\C#\W3chool\Tutorial\MyApplication\bin\Debug\net8.0\MyApplication.exe
+D:\C#\W3chool\Tutorial\MyApplication\bin\Debug\net8.0\MyApplication.deps.json
+D:\C#\W3chool\Tutorial\MyApplication\bin\Debug\net8.0\MyApplication.runtimeconfig.json
+D:\C#\W3chool\Tutorial\MyApplication\bin\Debug\net8.0\MyApplication.dll
+D:\C#\W3chool\Tutorial\MyApplication\bin\Debug\net8.0\MyApplication.pdb
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.AssemblyInfoInputs.cache
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.AssemblyInfo.cs
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.csproj.CoreCompileInputs.cache
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.dll
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\refint\MyApplication.dll
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.pdb
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\MyApplication.genruntimeconfig.cache
+D:\C#\W3chool\Tutorial\MyApplication\obj\Debug\net8.0\ref\MyApplication.dll

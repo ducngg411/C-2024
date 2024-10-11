@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.exe
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.deps.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.runtimeconfig.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfo.cs
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\refint\StudentManagerV3EmptyConstructor.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.genruntimeconfig.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\ref\StudentManagerV3EmptyConstructor.dll

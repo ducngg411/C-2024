@@ -1,0 +1,14 @@
+D:\C#\Session4-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.exe
+D:\C#\Session4-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.deps.json
+D:\C#\Session4-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.runtimeconfig.json
+D:\C#\Session4-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.dll
+D:\C#\Session4-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.pdb
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfoInputs.cache
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfo.cs
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.csproj.CoreCompileInputs.cache
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.dll
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\refint\ArrayStudent.dll
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.pdb
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.genruntimeconfig.cache
+D:\C#\Session4-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ref\ArrayStudent.dll

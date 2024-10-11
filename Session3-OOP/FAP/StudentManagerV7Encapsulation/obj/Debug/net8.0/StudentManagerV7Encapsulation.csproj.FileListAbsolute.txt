@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.exe
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.deps.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.runtimeconfig.json
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfo.cs
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\refint\StudentManagerV7Encapsulation.dll
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.genruntimeconfig.cache
+C:\Users\PC\Downloads\C#\Session3-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\ref\StudentManagerV7Encapsulation.dll

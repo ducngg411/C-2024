@@ -1,0 +1,14 @@
+D:\C#\Session2-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.exe
+D:\C#\Session2-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.deps.json
+D:\C#\Session2-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.runtimeconfig.json
+D:\C#\Session2-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.dll
+D:\C#\Session2-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.pdb
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfoInputs.cache
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfo.cs
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.csproj.CoreCompileInputs.cache
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.dll
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\refint\NullableV2.dll
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.pdb
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.genruntimeconfig.cache
+D:\C#\Session2-Language\DataType\NullableV2\obj\Debug\net8.0\ref\NullableV2.dll

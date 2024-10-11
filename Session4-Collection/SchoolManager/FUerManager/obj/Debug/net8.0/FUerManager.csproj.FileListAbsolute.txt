@@ -1,0 +1,14 @@
+D:\C#\Session4-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.exe
+D:\C#\Session4-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.deps.json
+D:\C#\Session4-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.runtimeconfig.json
+D:\C#\Session4-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.dll
+D:\C#\Session4-Collection\SchoolManager\FUerManager\bin\Debug\net8.0\FUerManager.pdb
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfoInputs.cache
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfo.cs
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.csproj.CoreCompileInputs.cache
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.dll
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\refint\FUerManager.dll
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.pdb
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\FUerManager.genruntimeconfig.cache
+D:\C#\Session4-Collection\SchoolManager\FUerManager\obj\Debug\net8.0\ref\FUerManager.dll

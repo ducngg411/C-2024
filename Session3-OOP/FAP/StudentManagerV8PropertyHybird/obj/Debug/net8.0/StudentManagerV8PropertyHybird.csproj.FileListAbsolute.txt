@@ -1,0 +1,14 @@
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\bin\Debug\net8.0\StudentManagerV8PropertyHybird.exe
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\bin\Debug\net8.0\StudentManagerV8PropertyHybird.deps.json
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\bin\Debug\net8.0\StudentManagerV8PropertyHybird.runtimeconfig.json
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\bin\Debug\net8.0\StudentManagerV8PropertyHybird.dll
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\bin\Debug\net8.0\StudentManagerV8PropertyHybird.pdb
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.AssemblyInfoInputs.cache
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.AssemblyInfo.cs
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.csproj.CoreCompileInputs.cache
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.dll
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\refint\StudentManagerV8PropertyHybird.dll
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.pdb
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\StudentManagerV8PropertyHybird.genruntimeconfig.cache
+D:\C#\Session3-OOP\FAP\StudentManagerV8PropertyHybird\obj\Debug\net8.0\ref\StudentManagerV8PropertyHybird.dll

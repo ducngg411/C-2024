@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Session4-Collection\\SchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|d:\\c#\\session4-collection\\schoolmanager\\fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|d:\\c#\\session4-collection\\schoolmanager\\fuermanager\\entites\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\entites\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|d:\\c#\\session4-collection\\schoolmanager\\fuermanager\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|d:\\c#\\session4-collection\\schoolmanager\\fuermanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC26AF71-7705-4B9B-B09E-9712FAB1E729}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC4E514-EBB1-4CAF-A376-E970C4B66957}|ListBasic\\ListBasic.csproj|d:\\c#\\session4-collection\\schoolmanager\\listbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC4E514-EBB1-4CAF-A376-E970C4B66957}|ListBasic\\ListBasic.csproj|solutionrelative:listbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC4E514-EBB1-4CAF-A376-E970C4B66957}|ListBasic\\ListBasic.csproj|d:\\c#\\session4-collection\\schoolmanager\\listbasic\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC4E514-EBB1-4CAF-A376-E970C4B66957}|ListBasic\\ListBasic.csproj|solutionrelative:listbasic\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "FUerManager\\Services\\Cabinet.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
+              "RelativeToolTip": "FUerManager\\Services\\Cabinet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:33:38.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Entites\\Lecturer.cs",
+              "RelativeDocumentMoniker": "FUerManager\\Entites\\Lecturer.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Entites\\Lecturer.cs",
+              "RelativeToolTip": "FUerManager\\Entites\\Lecturer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:31:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "FUerManager\\Entites\\Student.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Entites\\Student.cs",
+              "RelativeToolTip": "FUerManager\\Entites\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:31:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Program.cs",
+              "RelativeDocumentMoniker": "FUerManager\\Program.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\FUerManager\\Program.cs",
+              "RelativeToolTip": "FUerManager\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:26:46.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\ListBasic\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "ListBasic\\Entites\\Student.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\ListBasic\\Entites\\Student.cs",
+              "RelativeToolTip": "ListBasic\\Entites\\Student.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:08:32.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Session4-Collection\\SchoolManager\\ListBasic\\Program.cs",
+              "RelativeDocumentMoniker": "ListBasic\\Program.cs",
+              "ToolTip": "D:\\C#\\Session4-Collection\\SchoolManager\\ListBasic\\Program.cs",
+              "RelativeToolTip": "ListBasic\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T02:55:55.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

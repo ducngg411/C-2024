@@ -1,0 +1,14 @@
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.AssemblyInfoInputs.cache
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.AssemblyInfo.cs
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.csproj.CoreCompileInputs.cache
+D:\C#\W3chool\Tutorial\Output\bin\Debug\net8.0\Output.exe
+D:\C#\W3chool\Tutorial\Output\bin\Debug\net8.0\Output.deps.json
+D:\C#\W3chool\Tutorial\Output\bin\Debug\net8.0\Output.runtimeconfig.json
+D:\C#\W3chool\Tutorial\Output\bin\Debug\net8.0\Output.dll
+D:\C#\W3chool\Tutorial\Output\bin\Debug\net8.0\Output.pdb
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.dll
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\refint\Output.dll
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.pdb
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\Output.genruntimeconfig.cache
+D:\C#\W3chool\Tutorial\Output\obj\Debug\net8.0\ref\Output.dll

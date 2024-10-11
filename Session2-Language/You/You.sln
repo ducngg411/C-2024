@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainUI", "MainUI\MainUI.csproj", "{15A0ECA2-FBA0-4535-B416-07EA20682B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmi", "Bmi\Bmi.csproj", "{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BmiTester", "BmiTester\BmiTester.csproj", "{9F57142F-4C32-4FE9-B527-2373C5C83577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A0ECA2-FBA0-4535-B416-07EA20682B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A0ECA2-FBA0-4535-B416-07EA20682B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A0ECA2-FBA0-4535-B416-07EA20682B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A0ECA2-FBA0-4535-B416-07EA20682B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400A93A0-2F0B-4721-8D28-9D9D5D5000BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F57142F-4C32-4FE9-B527-2373C5C83577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F57142F-4C32-4FE9-B527-2373C5C83577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F57142F-4C32-4FE9-B527-2373C5C83577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F57142F-4C32-4FE9-B527-2373C5C83577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E550E8C6-5373-4BE6-B526-B963E22AE29B}
+	EndGlobalSection
+EndGlobal

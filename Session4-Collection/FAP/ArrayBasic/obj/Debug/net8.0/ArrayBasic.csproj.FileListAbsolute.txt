@@ -1,0 +1,14 @@
+D:\C#\Session4-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.exe
+D:\C#\Session4-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.deps.json
+D:\C#\Session4-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.runtimeconfig.json
+D:\C#\Session4-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.dll
+D:\C#\Session4-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.pdb
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfoInputs.cache
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfo.cs
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.csproj.CoreCompileInputs.cache
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.dll
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\refint\ArrayBasic.dll
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.pdb
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.genruntimeconfig.cache
+D:\C#\Session4-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ref\ArrayBasic.dll

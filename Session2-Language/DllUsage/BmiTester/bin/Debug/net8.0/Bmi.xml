@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCaculator">
+            <summary>
+            class doc : short description about this class, what it will do,...
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCaculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            return Bmi base on weight and height. It arrange about 18.5 - 24.9 
+            </summary>
+            <param name="weight">Cân nặng đo bằng cân</param>
+            <param name="height">Chiều cao đo bằng mét</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
